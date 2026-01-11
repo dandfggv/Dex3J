@@ -50,7 +50,7 @@ If you care about **smooth, competitive gameplay**, Dex3J is built for you.
 Map: High detail obby – 1080p
 
 Before Dex3J:
-██████████░░░░░░░░  40–60 FPS (spikes, drops)
+████████████████ 40–60 FPS (spikes, drops)
 
 After Dex3J:
-██████████████████  90–140 FPS (more stable)
+███████████████████████████ 90–140 FPS (more stable)
